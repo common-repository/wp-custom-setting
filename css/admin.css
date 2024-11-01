@@ -1,0 +1,24 @@
+.lesskeyval span,
+.moreval span {
+	display: none;
+}
+
+a.lesskeyval,
+a.lesskeyval:hover,
+a.moreval,
+a.moreval:hover {
+	text-decoration: none;
+	color:#777;
+}
+
+a.lesskeyval:hover,
+a.moreval:hover {
+  color: #2EA2CC;
+}
+.lesskeyval {
+	
+}
+
+.moreval {
+	
+}
